@@ -23,11 +23,12 @@ var overviewerConfig = {
         "LOWERRIGHT": 2
     },
     "worlds": [
-        "ETGN Sanity Pack"
+        "ETGN Sanity Pack - overworld",
+        "ETGN Sanity Pack - nether"
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1608657518",
+        "cacheTag": "1608663707",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -41,15 +42,15 @@ var overviewerConfig = {
     },
     "tilesets": [
         {
-            "name": "Default Map Render",
+            "name": "Overworld Map Render",
             "zoomLevels": 11,
             "defaultZoom": 8,
             "maxZoom": 11,
-            "path": "world-lighting",
+            "path": "overworld",
             "base": "",
             "bgcolor": "#1a1a1a",
-            "world": "ETGN Sanity Pack",
-            "last_rendertime": 1608657311,
+            "world": "ETGN Sanity Pack - overworld",
+            "last_rendertime": 1608661511,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
@@ -65,6 +66,29 @@ var overviewerConfig = {
                 75,
                 100
             ],
+            "north_direction": 0
+        },
+        {
+            "name": "Underworld Map Render",
+            "zoomLevels": 7,
+            "defaultZoom": 7,
+            "maxZoom": 7,
+            "path": "underworld",
+            "base": "",
+            "bgcolor": "#1a1a1a",
+            "world": "ETGN Sanity Pack - nether",
+            "last_rendertime": 1608661715,
+            "imgextension": "jpg",
+            "isOverlay": false,
+            "poititle": "Markers",
+            "showlocationmarker": true,
+            "center": [
+                -259,
+                75,
+                100
+            ],
+            "minZoom": 2,
+            "spawn": false,
             "north_direction": 0
         }
     ]

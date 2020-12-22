@@ -28,7 +28,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1608663707",
+        "cacheTag": "1608675020",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -50,7 +50,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "ETGN Sanity Pack - overworld",
-            "last_rendertime": 1608661511,
+            "last_rendertime": 1608673000,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
@@ -77,7 +77,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "ETGN Sanity Pack - nether",
-            "last_rendertime": 1608661715,
+            "last_rendertime": 1608672403,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",

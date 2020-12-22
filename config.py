@@ -4,6 +4,7 @@ renders["world-lighting"] = {
 	"world": "ETGN Sanity Pack",
 	"title": "Default Map Render",
 	"imgformat": "jpg",
+	"imgquality": 50,
 	"minzoom": 2,
 	"defaultzoom": 8
 }

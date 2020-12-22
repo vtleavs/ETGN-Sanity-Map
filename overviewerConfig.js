@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1608656735",
+        "cacheTag": "1608657518",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -49,7 +49,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "ETGN Sanity Pack",
-            "last_rendertime": 1608656413,
+            "last_rendertime": 1608657311,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",

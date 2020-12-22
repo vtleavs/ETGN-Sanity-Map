@@ -4,7 +4,7 @@ renders["overworld"] = {
 	"world": "ETGN Sanity Pack",
 	"title": "Overworld Map Render",
 	"dimension": "overworld",
-	"rendermode": default,
+	"rendermode": normal,
 	"imgformat": "jpg",
 	"imgquality": 50,
 	"minzoom": 2,

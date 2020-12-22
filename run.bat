@@ -6,6 +6,8 @@ echo %mydate%_%mytime%
 
 overviewer --config=.\config.py
 
+pause
+
 git add .
 git commit -m "Date: %mydate%, Time: %mytime%"
 git push
